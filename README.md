@@ -1,16 +1,16 @@
-# Moongloss Display Font | (Holloway) Chew, Kean Ho's Creative Visuals
+# MoonGloss Display Font | (Holloway) Chew, Kean Ho's Creative Visuals
 
 [![banner](/Pictures/banner_1200x630.svg)](#)
 
-Moongloss Display is a Latin (ID: `*Latn`) Display font designed by
-[The Moongloss Display Project Team](https://moonglossfont.github.io).
+MoonGloss Display is a Latin (ID: `*Latn`) Display font designed by
+[The MoonGloss Display Project Team](https://moonglossfont.github.io).
 Its design is based on monospaced characters to look functionally,
 technologically, and reasonably futuristic for date, time, or minor info
 display purposes. There are 3 families for specific applications:
 
-* `Moongloss Display` - standard thick styled typeface
-* `Moongloss Display Medium` - slightly slimed styled typeface
-* `Moongloss Display Thin` - slim styled typeface
+* `MoonGloss Display` - standard thick styled typeface
+* `MoonGloss Display Medium` - slightly slimed styled typeface
+* `MoonGloss Display Thin` - slim styled typeface
 
 This font is ideal for eye-catching general use like poster title, movie title,
 movie notice headings, and body headings.
@@ -349,8 +349,8 @@ Attribution is **OPTIONAL**. Whenever required, you **MUST** attribute back to
 the creator(s) as follows:
 
 ```
-Title: Moongloss Display Font
-Creators: The Moongloss Display Project Team
+Title: MoonGloss Display Font
+Creators: The MoonGloss Display Project Team
 Packaged-By: (Holloway) Chew, Kean Ho
 Contact: hello@chewkeanho.com
 SKU: chewkeanho-visuals-fonts-moongloss-display
