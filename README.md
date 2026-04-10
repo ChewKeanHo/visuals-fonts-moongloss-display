@@ -6,7 +6,11 @@ Moongloss Display is a Latin (ID: `*Latn`) Display font designed by
 [The Moongloss Display Project Team](https://moonglossfont.github.io).
 Its design is based on monospaced characters to look functionally,
 technologically, and reasonably futuristic for date, time, or minor info
-display purposes.
+display purposes. There are 3 families for specific applications:
+
+* `Moongloss Display` - standard thick styled typeface
+* `Moongloss Display Medium` - slightly slimed styled typeface
+* `Moongloss Display Thin` - slim styled typeface
 
 This font is ideal for eye-catching general use like poster title, movie title,
 movie notice headings, and body headings.
